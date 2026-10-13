@@ -1,0 +1,8 @@
+Manasa | HARD | 1200
+aditya| EASY | 950
+Anu | MEDIUM | 700manasa | EASY | Score: 1200
+MANASA | HARD | Score: 1200
+abhi | EASY | Score: 1200
+manasa | EASY | Score: 1200
+RAKESH | EASY | Score: 1200
+vennala | EASY | Score: 1250

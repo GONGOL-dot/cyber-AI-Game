@@ -1,0 +1,15 @@
+LEVEL1|PASSWORD|CYBER|I am related to computers and digital technology.|I have 5 letters.|I start with C and end with R.|100
+LEVEL1|PASSWORD|NEXUS|I am a connection or network.|I have 5 letters.|I start with N and end with S.|100
+LEVEL1|PASSWORD|MATRIX|I am a simulated digital world.|I have 6 letters.|I start with M and end with X.|150
+LEVEL1|PASSWORD|PHANTOM|I am a mysterious hidden identity.|I have 7 letters.|I start with P and end with M.|150
+
+LEVEL2|CODE|DBTF|CASE|Move every letter one step backward|150
+LEVEL2|CODE|DBU|CAT|Move every letter one step backward|150
+LEVEL2|CODE|IPHOF|HOGNE|Move every letter one step backward|150
+
+LEVEL3|FILE|secret.txt|200
+
+LEVEL4|MATH|5+6|55|First number multiplied by the sum of both numbers|250
+LEVEL4|MATH|6+7|78|First number multiplied by the sum of both numbers|250
+LEVEL4|MATH|7+8|105|First number multiplied by the sum of both numbers|250
+

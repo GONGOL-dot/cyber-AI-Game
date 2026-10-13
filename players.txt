@@ -1,0 +1,14 @@
+Manasa
+abhilash
+Adityamanasa
+MANASA
+aditya
+python main.py | MEDIUM
+manasa | EASY
+manasa | MEDIUM
+MANASA | HARD
+abhi | EASY
+manasa | EASY
+RAKESH | EASY
+manasa | EASY
+vennala | EASY
