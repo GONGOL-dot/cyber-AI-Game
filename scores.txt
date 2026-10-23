@@ -6,3 +6,7 @@ abhi | EASY | Score: 1200
 manasa | EASY | Score: 1200
 RAKESH | EASY | Score: 1200
 vennala | EASY | Score: 1250
+manasa,100
+manasa,0
+manasa,1250
+manasa|1200
